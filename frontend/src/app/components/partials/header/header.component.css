@@ -27,7 +27,7 @@ a.logo {
 }
 
 ul {
-  padding: flex;
+  display: flex;
   list-style-type: none;
   margin: 0;
 }
